@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="assets/app-icon.png" alt="Formiq Converter logo" width="112" height="112">
+  <img src="assets/app-icon.png" alt="Formiq Converter logo" width="112" height="112" align="middle">
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/pixelproud-logo.svg" alt="PIXELPROUD logo" width="96" height="96">
+  <img src="assets/pixelproud-logo.svg" alt="PIXELPROUD logo" width="96" height="96" align="middle">
 
 # Formiq Converter
 
