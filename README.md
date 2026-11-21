@@ -1,5 +1,7 @@
 <div align="center">
   <img src="assets/app-icon.png" alt="Formiq Converter logo" width="112">
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/pixelproud-logo.svg" alt="PIXELPROUD logo" width="112">
 
 # Formiq Converter
 
@@ -7,14 +9,16 @@
 
 A free, offline image and PDF converter for Windows. Convert files on your computer without paying for an online conversion service.
 
-**Version 1.0.0 — planned preview** · Windows x64 · Developed by PIXELPROUD
+**Version 1.0.0 — preview** · Windows x64 · Developed by PIXELPROUD
 
-[![Download Windows setup](https://img.shields.io/badge/Windows-Setup%20coming%20soon-276c51?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/InfoYaseer/formiq-converter/releases)
+[![Download Windows setup](https://img.shields.io/badge/Windows-Download%20setup-276c51?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/InfoYaseer/formiq-converter/releases/download/v1.0.0/Formiq-Converter-Setup-1.0.0.exe)
+
+[View the v1.0.0 release and notes](https://github.com/InfoYaseer/formiq-converter/releases/tag/v1.0.0)
 
 [Explore the tools](#conversion-tools) · [Install](#install-on-windows) · [Uninstall](#uninstall) · [Support](#support)
 </div>
 
-> **Draft for review:** The setup button opens Releases, but an installer has not yet been published. The current build is an unsigned preview and is not ready for public distribution. Before release, complete the dependency licensing review, approve the terms, and test installation and removal on clean Windows systems. See the release notes.
+> **Preview release:** The Windows installer is available. It is unsigned and displays draft terms; the updated finish-screen launch option and third-party licensing still need review. See the release notes for details.
 
 ## Convert on your own terms
 
@@ -23,17 +27,17 @@ Formiq brings everyday image and PDF conversions together in a straightforward d
 
 ## Install on Windows
 
-**Availability:** the installer is not publicly available yet. The steps below describe the intended Windows preview flow. The images are **illustrations**, not screenshots; labels and screens may vary. Final terms acceptance is not included in the current preview.
+**Availability:** The Windows preview installer is available. The guide images below are **illustrations**, not screenshots; labels and screens may vary. The installer displays draft terms for acceptance.
 
 ### 1. Open Releases
 
-On the [Releases page](https://github.com/InfoYaseer/formiq-converter/releases), find the version you want. The installer will appear there once it has been published.
+Open the [v1.0.0 release page](https://github.com/InfoYaseer/formiq-converter/releases/tag/v1.0.0) to find the installer and release notes.
 
 ![Illustration: opening the Releases page](docs/guides/install-01-releases.svg)
 
 ### 2. Download the Windows setup
 
-Under the release’s assets, select the Windows setup `.exe` and wait for the download to finish. A draft release is visible only to repository managers.
+Under **Assets**, select **Formiq-Converter-Setup-1.0.0.exe** and wait for the download to finish. The file ending in `Preview.exe` is an older build.
 
 ![Illustration: downloading the Windows setup](docs/guides/install-02-download.svg)
 
@@ -51,7 +55,7 @@ Windows may ask for permission to make changes. Check the source and publisher b
 
 ### 5. Read the setup information
 
-Read the information shown by the setup wizard, then select **Next** to continue. If final terms are added in a later release, review them before accepting.
+Read the information and draft terms shown by the setup wizard. Accept the terms to continue if you agree.
 
 ![Illustration: reading setup information](docs/guides/install-05-information.svg)
 
@@ -192,7 +196,7 @@ Add a PDF and convert its pages into separate JPG images. Choose the output fold
 
 | Version | Status | Notes |
 | --- | --- | --- |
-| **1.0.0** | Planned preview | Initial Windows release: image and PDF converters, previews, direct-to-folder saving and overwrite prompts. |
+| **1.0.0** | Preview available | Initial Windows release: image and PDF converters, previews, direct-to-folder saving and overwrite prompts. |
 
 Future releases should be published on the same repository's **Releases** page, with version-specific notes and the matching Windows installer attached to each release.
 
