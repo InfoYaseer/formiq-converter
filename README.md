@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="assets/app-icon.png" alt="Formiq Converter logo" width="112">
+  <img src="assets/app-icon.png" alt="Formiq Converter logo" width="112" height="112">
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/pixelproud-logo.svg" alt="PIXELPROUD logo" width="112">
+  <img src="assets/pixelproud-logo.svg" alt="PIXELPROUD logo" width="112" height="112">
 
 # Formiq Converter
 
@@ -38,6 +38,8 @@ Open the [v1.0.0 release page](https://github.com/InfoYaseer/formiq-converter/re
 ### 2. Download the Windows setup
 
 Under **Assets**, select **Formiq-Converter-Setup-1.0.0.exe** and wait for the download to finish. The file ending in `Preview.exe` is an older build.
+
+GitHub also displays automatically generated “Source code” archives. These contain this public guide, images and notices; Formiq's application source is maintained separately and is not included in this repository.
 
 ![Illustration: downloading the Windows setup](docs/guides/install-02-download.svg)
 
